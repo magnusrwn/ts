@@ -1,5 +1,7 @@
 // This is the first "hello world" file
-const user = { name: "magnus", age: 15 };
+let user = { name: "magnus", age: 15 };
 
+// errs email (why ts is good)
 console.log("listen");
-console.log(user.name);
+console.log(user.email);
+

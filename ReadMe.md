@@ -1,6 +1,6 @@
 # This repo is all saved code for learning ts.
 
-## Currently it is12/07/2025 --- I aim to be competent in ts by 01/09/2025 latest
+## Currently it is 12/07/2025 --- I aim to be competent in ts by 01/09/2025 latest
 
 For context, I am somewhat-competent in intermediate js, and I can grasp most pytohn concepts.
 

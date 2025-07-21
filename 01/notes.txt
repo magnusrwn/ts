@@ -1,0 +1,7 @@
+Delclerations:
+
+In TS, each varibale has to be defined with their type. Like... "let x: string = "xyz"
+
+Also, in TS, float and int do not exist. They are simpley defined as "number"
+
+Other things that are 
