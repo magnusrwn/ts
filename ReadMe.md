@@ -1,4 +1,4 @@
-# This repo is all saved code for learning ts.
+# This repo is all saved code for learning ts concepts.
 
 ## Currently it is 12/07/2025 --- I aim to be competent-enough in ts by 01/09/2025 latest
 
